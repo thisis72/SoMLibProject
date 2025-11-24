@@ -1,4 +1,5 @@
 ﻿<Solution>
+  <Project Path="SoMLib.Editor.csproj" />
+  <Project Path="SoMLib.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
-  <Project Path="Assembly-CSharp-Editor.csproj" />
 </Solution>
